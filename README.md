@@ -16,7 +16,7 @@ The File options are:
 
 2) To List Files of the Server Directory
 
-![Capture_FileTransfer_ListFiles](https://github.com/04xRaynal/File-Transfer_Java-Socket/blob/f31902f15e13b287a3959d24d094dce8cb81c86c/Captured%20Images/Capture_FileTransfer_ListFiles.PNG)
+![Capture_FileTransfer_ListFilesServer](https://github.com/04xRaynal/File-Transfer_Java-Socket/blob/b814882967b247fac2ec6e4a901cf6c960511aad/Captured%20Images/Capture_FileTransfer_ListFilesServer.PNG)
 ---
 
 3) Filter Files using the Department ID
